@@ -1,0 +1,6 @@
+garden.json
+node_modules
+__pycache__
+.vscode
+.idea/
+.metals/
